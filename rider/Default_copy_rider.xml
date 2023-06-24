@@ -1120,7 +1120,6 @@
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="88" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
@@ -1170,7 +1169,6 @@
   <codeStyleSettings language="TypeScript">
     <option name="RIGHT_MARGIN" value="88" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
